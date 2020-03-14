@@ -1,2 +1,2 @@
 # FaceRecognition
-This is my first Project in Python 
+This is my first Project in Python with openCV library
